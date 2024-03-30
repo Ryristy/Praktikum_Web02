@@ -45,4 +45,4 @@ $pasiens = $dbh->query($query); ?>
         </table>
     </div>
 </body>
-</html>
+</html>clear
