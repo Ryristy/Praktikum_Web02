@@ -1,6 +1,6 @@
 <?php
 // Membuat varial user 
-$name = "";Nuril sulistia argiani"
+$name = "";Risty"
 $age  =  18;
 $weigh = 60.5;
 
